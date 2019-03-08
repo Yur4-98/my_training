@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\characterController.cs" />
     <Compile Include="Assets\newcam.cs" />
+    <Compile Include="Assets\NewLevel.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>G:/GitHub репозитории/my_training/My first game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
