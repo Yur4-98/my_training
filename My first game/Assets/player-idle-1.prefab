@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 1977909454749384175}
   - component: {fileID: 1977909454749384174}
   - component: {fileID: 1977909454749384161}
+  - component: {fileID: 2228694682437408707}
   m_Layer: 0
   m_Name: player-idle-1
   m_TagString: Player
@@ -198,3 +199,15 @@ MonoBehaviour:
     m_Bits: 4294967295
   score: 0
   move: 0
+--- !u!114 &2228694682437408707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1977909454749384160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4247b068cb9eb1541b6dcf051befe768, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
