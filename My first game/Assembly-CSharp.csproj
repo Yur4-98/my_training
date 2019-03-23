@@ -61,7 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\skripts\characterController.cs" />
-    <Compile Include="Assets\skripts\Get_money.cs" />
+    <Compile Include="Assets\skripts\MoneyController.cs" />
     <Compile Include="Assets\skripts\newcam.cs" />
     <Compile Include="Assets\skripts\NewLevel.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
