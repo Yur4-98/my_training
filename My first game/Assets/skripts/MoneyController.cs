@@ -22,7 +22,7 @@ public class MoneyController : MonoBehaviour
         if (other.tag == "coin")
         {
             coin = coin + 1;
-            textComponent.text = coin.ToString() + "/9";
+            textComponent.text = coin.ToString() + "/5";
             Destroy(other.gameObject);
         }
     }
